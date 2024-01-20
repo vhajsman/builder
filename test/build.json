@@ -1,0 +1,19 @@
+{
+  "searchPaths": [],
+  "scripts": {
+    "before": [],
+    "start": [],
+    "after": [],
+    "afrer_failed": [],
+    "run": []
+  },
+
+  "dirs": {
+    "src": "src",
+    "obj": "obj",
+    "bin": "bin"
+  }
+
+  "target_default": "amd",
+  "arch_defaut": "x86_64",
+}
